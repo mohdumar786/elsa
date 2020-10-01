@@ -82,7 +82,7 @@ Elsa uses pytest, so if you are familiar with it, feel free to run  it directly.
 Further notes
 -------------
 
-URLs
+URL's
 ~~~~
 
 When you use URLs without trailing slash (e.g. ``https://example.com/foobar``), GitHub pages would serve the pages with bad Content-Type header
